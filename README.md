@@ -5,8 +5,8 @@ The dataset I worked on is IMDb Movie Data that has data for movies from 2006 - 
 
 My primary goal in developing this software was to perform data analysis on the IMDb Movie Data. I wanted to answer different questions about the dataset, such as finding trends in movie ratings and revenues over the years, and classifying mvoies into rating categories. This software allows me to perform these analyses.
 
-[IMDb Movie Data Analysis](https://youtu.be/3BVbuq7VUL8)
-[IMDb Movie Dataset](https://www.kaggle.com/code/priyang/data-analysis-imdb-movie-dataset)
+* [IMDb Movie Data Analysis](https://youtu.be/3BVbuq7VUL8)
+* [IMDb Movie Dataset](https://www.kaggle.com/code/priyang/data-analysis-imdb-movie-dataset)
 
 # Data Analysis Results
 1. Trends in Votes and Revenue: Found trends in movie votes and revenues over the years. The software helps visualize and analyze the data to identify this pattern.
